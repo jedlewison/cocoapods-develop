@@ -13,7 +13,7 @@ $ gem install cocoapods-develop
 Add cocoapods-develop to your Podfile:
 
 ```ruby
-plugin 'cocoapods-rome'
+plugin 'cocoapods-develop'
 ```
 
 When you want to start development work on one of your project's pod dependencies, add this:
